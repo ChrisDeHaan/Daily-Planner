@@ -17,6 +17,7 @@ This daily planner allows users to save events for each hour of a typical workin
 - <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a>
 - <a href="https://www.w3schools.com/">W3 Schools</a>
 - <a href="https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript">Adding and removing classes</a>
+- <a href="https://bobbyhadz.com/blog/javascript-add-event-listener-to-all-elements-with-class">Single listener for multiple elements</a>
 
 ## License
 
