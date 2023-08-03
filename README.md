@@ -6,11 +6,11 @@ This daily planner allows users to save events for each hour of a typical workin
 
 ## Deployed Link
 
-
+https://chrisdehaan.github.io/Daily-Planner/
 
 ## Mock-Ups
 
-
+![mock-up-image-of-website](./assets/img/daily-planner-mockup.png)
 
 ## References
 
