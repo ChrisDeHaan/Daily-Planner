@@ -2,7 +2,7 @@ var divs = document.getElementsByClassName('time-block');
 
 //Dynamic time displayed at top of page
 var today = dayjs();
-$('#currentDay').text((today.format('dddd, MMMM D YYYY')));
+$('#currentDay').text((today.format('dddd, MMMM D, YYYY')));
 
 //Timer to tell what hour block we're in
 var currentHour = Number(today.format('H'));
